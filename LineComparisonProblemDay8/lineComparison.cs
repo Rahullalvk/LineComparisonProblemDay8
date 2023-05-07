@@ -37,12 +37,21 @@ namespace LineComparisonProblemDay8
 
             if (length1 == length2)
             {
-                Console.WriteLine("Two lines a and b are equal");
+                Console.WriteLine("Two lines are equal");
 
             }
             else
             {
-                Console.WriteLine("Two lines a and b are not equal");
+                Console.WriteLine("Two lines are not equal");
+            }
+            if (length1 > length2)
+            {
+                Console.WriteLine("First line length  is greater than the second line");
+
+            }
+            else
+            {
+                Console.WriteLine("Second line length is greater then first line");
             }
         }
     }
