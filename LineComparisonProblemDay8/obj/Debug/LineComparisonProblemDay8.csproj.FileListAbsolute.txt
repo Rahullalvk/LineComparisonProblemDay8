@@ -1,0 +1,8 @@
+C:\Users\USER LENOVO\Documents\LineComparisonDay8\LineComparisonProblemDay8\LineComparisonProblemDay8\bin\Debug\LineComparisonProblemDay8.exe.config
+C:\Users\USER LENOVO\Documents\LineComparisonDay8\LineComparisonProblemDay8\LineComparisonProblemDay8\bin\Debug\LineComparisonProblemDay8.exe
+C:\Users\USER LENOVO\Documents\LineComparisonDay8\LineComparisonProblemDay8\LineComparisonProblemDay8\bin\Debug\LineComparisonProblemDay8.pdb
+C:\Users\USER LENOVO\Documents\LineComparisonDay8\LineComparisonProblemDay8\LineComparisonProblemDay8\obj\Debug\LineComparisonProblemDay8.csproj.AssemblyReference.cache
+C:\Users\USER LENOVO\Documents\LineComparisonDay8\LineComparisonProblemDay8\LineComparisonProblemDay8\obj\Debug\LineComparisonProblemDay8.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER LENOVO\Documents\LineComparisonDay8\LineComparisonProblemDay8\LineComparisonProblemDay8\obj\Debug\LineComparisonProblemDay8.csproj.CoreCompileInputs.cache
+C:\Users\USER LENOVO\Documents\LineComparisonDay8\LineComparisonProblemDay8\LineComparisonProblemDay8\obj\Debug\LineComparisonProblemDay8.exe
+C:\Users\USER LENOVO\Documents\LineComparisonDay8\LineComparisonProblemDay8\LineComparisonProblemDay8\obj\Debug\LineComparisonProblemDay8.pdb
